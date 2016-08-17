@@ -1,10 +1,4 @@
-//
-//  NotificationViewController.swift
-//  PassValue
-//
-//  Created by jim on 16/8/17.
-//  Copyright © 2016年 jim. All rights reserved.
-//
+
 
 import UIKit
 
